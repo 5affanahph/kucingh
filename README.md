@@ -1,43 +1,55 @@
-# 🐾 AA Bali Cattery — Cat Adoption Showcase Website
+# AA Bali Cattery Website 🐾
 
-Welcome to **AA Bali Cattery**, a beautifully crafted front-end project built with pure HTML, Tailwind CSS, and vanilla JavaScript — showcasing adorable cats available for adoption with a modern and responsive UI.
+A simple yet elegant website built to showcase AA Bali Cattery — a Bali-based cat breeding and adoption business. This website highlights our feline family and provides information for potential adopters.
 
-![Preview Screenshot](https://www.aabalicattery.com/wp-content/uploads/2025/07/preview.png)
+🔗 *Live Website:* [Visit Here](https://bit.ly/AAbalicattery)
 
 ---
 
 ## ✨ Features
-
-- 💡 **Responsive layout** using Tailwind CSS
-- 🐱 **Interactive cat cards** — click to view full details
-- 📸 **High-resolution cat images** with graceful fallback
-- 🛒 **Dynamic price display**: original + promotional price
-- 📍 **Location, age, gender, and vaccination status** displayed per cat
-- 📲 **WhatsApp integration** — one-click to send pre-filled adoption interest message including:
-  - Cat’s name, age, gender, breed
-  - Promotional and original price
-  - Direct photo link
-- 🎯 Smooth scroll and animated detail transition
+- Responsive and clean layout
+- Sectioned design: About, Gallery, Contact
+- Clear call-to-action and contact information
+- Built with HTML & CSS
+- Hosted via Vercel
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository or download the HTML file.
-2. Open `code (4).html` in any modern web browser.
-3. Click on any cat card to see more information.
-4. Press the **WhatsApp button** to instantly open a message window with the adoption inquiry pre-filled.
-
----
-
-## 🔧 Tech Stack
-
-- 🌐 HTML5
-- 🎨 Tailwind CSS (via CDN)
-- 🧠 JavaScript (Vanilla, no frameworks)
-- ☁️ Image hosting via public links
+## 📌 Purpose
+This project is part of my practice in web development, while also helping a local cattery business in Bali.  
+It was designed with beginner-friendly tools and structured manually to strengthen my fundamentals in:
+- Layout design
+- Styling
+- Mobile responsiveness
+- Real client use case
 
 ---
 
-## 📦 Folder Structure
+## 💻 Tech Stack
+- HTML5
+- CSS3
+- [Vercel](https://vercel.com) for deployment
 
+---
+
+## 🎯 Next Steps
+- Add contact form (JS or third-party like Formspree)
+- Improve SEO and meta tags
+- Add testimonials & photo gallery with carousel
+- Use custom domain (e.g., aabalicattery.com)
+
+---
+
+## 📚 What I Learned
+- Structuring real-world landing pages
+- Designing mobile-first websites
+- Communicating brand identity through web layout
+- Basic deployment with Vercel
+
+---
+
+## 💡 Notes
+Made with 💖 by a high school student learning front-end development through real practice.  
+This project reflects the spirit of learning-by-doing and helping local businesses grow online.
+
+---
